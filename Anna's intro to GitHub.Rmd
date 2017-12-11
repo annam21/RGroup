@@ -13,6 +13,7 @@ Using GitHub for your personal benefit is slightly different than for collaborat
 
 ### Using GitHub for your own work
 When you're the person in charge of the project, you want to use "clone"
+
 Online:
 1. Create a repository (this creates it online)
 
@@ -21,6 +22,8 @@ GitHub Desktop:
 2. Use that folder like you would with any other folder. Add code, make changes, etc.
 3. Every time you make a change, open GitHub Desktop and commit it. 
 4. Sync (this takes it from your computer to online)
+=======
+>>>>>>> 27d20a7fe631e5ce8e7d9679bef2d2e75190f9c7
 
 ### Using GitHub to collaborate
 When you're *not* the person in charge of the project, you want to use "fork"
