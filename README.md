@@ -27,7 +27,11 @@ Fall 2017
 - [tidyverse reference page](http://ggplot2.tidyverse.org/reference/)
 
 ## pwr 
-- [Getting started with the pwr package](https://cran.r-project.org/web/packages/pwr/vignettes/pwr-vignette.html)  
+- [Getting started with the pwr package](https://cran.r-project.org/web/packages/pwr/vignettes/pwr-vignette.html) 
+
+## debugging
+- [RStudio debugging documentation](https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio)
+- [General techniques](http://adv-r.had.co.nz/Exceptions-Debugging.html)
 
 ## Other links
 - [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-nutshell.html)
