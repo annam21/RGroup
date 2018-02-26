@@ -26,12 +26,10 @@ Fall 2017
 - [Nonlinear Regression with R](https://link.springer.com/book/10.1007%2F978-0-387-09616-2#section=128207&page=1)
 - [Applied Statistical Genetics with R](https://link.springer.com/book/10.1007%2F978-0-387-89554-3#section=18289&page=1)
 
-## Other resources
-- [List of Resources](https://www.computerworld.com/article/2497464/business-intelligence/business-intelligence-60-r-resources-to-improve-your-data-skills.html)
-
 ## Finding help and mailing lists
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/r)
 - [CrossValidated Statistical Questions](https://stats.stackexchange.com/questions?sort=hot)
+- [60 Resources to Improve your Data Skills in R](https://www.computerworld.com/article/2497464/business-intelligence/business-intelligence-60-r-resources-to-improve-your-data-skills.html)
 - [Rseek](https://rseek.org/)
 - [Nabble R](http://r.789695.n4.nabble.com/)
 - [Nabble R Ecology](http://r-sig-ecology.471788.n2.nabble.com/)
