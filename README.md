@@ -9,7 +9,7 @@ Fall 2017
 - [Try R](http://tryr.codeschool.com/)
 - [Video resources](http://jeromyanglim.blogspot.com/2010/05/videos-on-data-analysis-with-r.html)
 
-## Books about R
+## Online Books
 - [The R Book](http://onlinelibrary.wiley.com/book/10.1002/9780470515075)
 - [R Programming book](https://en.wikibooks.org/wiki/R_Programming/Working_with_functions)
 - [Cookbook for R](http://www.cookbook-r.com/)
