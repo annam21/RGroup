@@ -1,7 +1,5 @@
 # RGroup
-Code and examples for University of Montana's RGroup
-
-Fall 2017
+R Resources for University of Montana's RGroup
 
 ## Online learning for R
 - [Data Camp](https://www.datacamp.com/courses/free-introduction-to-r)
