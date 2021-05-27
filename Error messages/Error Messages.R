@@ -2,10 +2,6 @@
   # Anna Moeller
   # 9/11/2017
 
-  # Set working directory
-  setwd("/Users/annamoeller/GitHub/RGroup") # Mac
-  setwd("C:/Users/anna.moeller/Documents/GitHub") # PC
-  
   # Most common problems: 
   # typos, 
   # punctuation error,
@@ -50,6 +46,10 @@
   
   # Punctuation errors
   head(a))
+  
+  plot(1:10, 
+       1:10 
+       pch = 1:10)
   
   c <- NULL
   for(i in 1:length(a){
